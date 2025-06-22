@@ -19,3 +19,4 @@ setup(
     install_requires=get_requirements(),
     description='A project to detect phishing websites using machine learning'
 )
+
