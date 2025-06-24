@@ -1,6 +1,5 @@
 from networksecurity.exception.exception import NetworkSecurityException
 from networksecurity.logging.logger import logger
-
 from networksecurity.entity.config_entity import DataIngestionConfig
 from networksecurity.entity.artifact_entity import DataIngestionArtifact
 import os
