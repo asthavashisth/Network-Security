@@ -1,0 +1,6 @@
+2025-06-26 15:46:49,958 -1025 -httpx -INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2025-06-26 15:46:49,961 -107 -dagshub -INFO - Accessing as astha.vashisth136
+2025-06-26 15:46:50,373 -1025 -httpx -INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/astha.vashisth136/Network-Security "HTTP/1.1 200 OK"
+2025-06-26 15:46:50,747 -1025 -httpx -INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2025-06-26 15:46:50,749 -107 -dagshub -INFO - Initialized MLflow to track repo "astha.vashisth136/Network-Security"
+2025-06-26 15:46:50,750 -107 -dagshub -INFO - Repository astha.vashisth136/Network-Security initialized!
